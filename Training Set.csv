@@ -1,4 +1,4 @@
-﻿Date,Time,Minute,Solar Radiation (W/m^2),Outside Temperature (T[n-1]),Inside Temperature Middle (T[n-1]),Fan on/off,Actual Temperature Middle ((T[n])
+﻿Date,Time,Minute,Solar Radiation (W/m^2),Outside Temperature (T[n-1]),Actual Temperature Middle (T[n-1]),Fan on/off,Actual Temperature Middle ((T[n])
 2022/11/18,00:06:37,5,0,13.826181,17,0,17
 2022/11/18,00:11:38,10,0,13.786181,17,0,17
 2022/11/18,00:16:39,15,0,13.746181,17,0,17
