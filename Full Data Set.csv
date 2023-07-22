@@ -1,4 +1,4 @@
-date,time,Temperature Front,Humidity Front,Temperature Middle,Humidity Middle,Temperature Back,Humidity Back,Fan/Wet Wall State
+Date,Time,Temperature Front,Humidity Front,Temperature Middle,Humidity Middle,Temperature Back,Humidity Back,Fan/Wet Wall State
 1931/12/22,00:06:35,17,100,18,88,16,96,F
 1931/12/22,00:11:34,17,100,18,87,16,96,F
 1931/12/22,00:16:35,17,100,18,87,16,96,F
